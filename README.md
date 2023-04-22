@@ -13,5 +13,5 @@ I am an Industrial Engineer with over 4 years of experience in Python. My intere
 
 
 ## Contact Me
-- Email: [email](caglarguher.business@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/caglarguherwork
+- Email: caglarguher.business@gmail.com
+- LinkedIn: https://www.linkedin.com/in/caglarguherwork
